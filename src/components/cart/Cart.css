@@ -1,0 +1,14 @@
+.cart-container{
+    background-color: #ff99004d !important;
+    height: 100vh;
+    text-align: center;
+    padding: 100px 0;
+    position: sticky;
+    top: 0;
+}
+.cart-container h2{
+    margin: 0;
+}
+.cart-container p{
+    font-size: 17px;
+}
