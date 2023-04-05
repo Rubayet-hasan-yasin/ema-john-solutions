@@ -12,3 +12,13 @@
 .cart-container p{
     font-size: 17px;
 }
+
+.btn-clear-cart{
+    width: 90%;
+    margin: 10px 0;
+    background: #FF3030;
+    color: aliceblue;
+    font-size: 18px;
+    
+
+}
