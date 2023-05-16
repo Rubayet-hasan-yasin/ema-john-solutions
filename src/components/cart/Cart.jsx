@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTrashAlt, faArrowRight } from '@fortawesome/free-solid-svg-icons'
 
 const Cart = ({cart, handleClearCart, children}) => {
-    console.log(cart);
+    // console.log(cart);
 
     let totalPrice = 0;
     let totalShipping = 0;
